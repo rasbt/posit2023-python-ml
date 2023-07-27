@@ -5,7 +5,7 @@ Workshop materials for [posit::conf(2023)](https://posit.co/conference/) in Chic
 
 - Please also check the official [Tutorial Schedule](https://reg.conf.posit.co/flow/posit/positconf23/attendee-portal/page/sessioncatalog) for updates.
 
-**Abstract**
+## Abstract
 
 In this workshop, you will learn the machine and deep learning fundamentals using a modern open-source stack. We’ll start with a brief introduction to Python’s scientific computing libraries, including NumPy, Pandas, and Matplotlib, which provide the foundation for data analysis and visualization. From there, we will dive into the scikit-learn API, a user-friendly, open-source library for machine learning in Python. You will learn how to use it to create machine learning classifiers and apply tree-based models like random forests, gradient boosting, and XGBoost. 
 
@@ -21,7 +21,7 @@ This workshop is for you if you:
 
 
 
-**Material & Preparation**
+## Material & Preparation
 
 The workshop material will be posted ahead of time but may be updated on the weekend before the event. To prepare for the workshop, there are only 4 small action items prior to the workshop are
 
