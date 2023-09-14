@@ -1,9 +1,11 @@
 # Machine Learning and Deep Learning with Python @ POSIT::CONF(2023)
 Workshop materials for [posit::conf(2023)](https://posit.co/conference/) in Chicago.
 
-**Monday, Sep 18 | 9:00 AM - 5:00 PM CDT**
+**Monday, Sep 18 | 9:00 AM - 5:00 PM CDT  in Grand Hall J**
 
 - Please also check the official [Tutorial Schedule](https://reg.conf.posit.co/flow/posit/positconf23/attendee-portal/page/sessioncatalog) for updates.
+
+&nbsp;
 
 ## Abstract
 
@@ -19,7 +21,7 @@ This workshop is for you if you:
 - are a scientific computing practitioner who is interested in predictive modeling
 - are a problem solver who want to learn about Python-tools for tabular, image, and text data
 
-
+&nbsp;
 
 ## Material & Preparation
 
@@ -34,39 +36,64 @@ Looking forward to seeing you there!
 
 PS: If you have any questions, please feel free to reach out via the [Discussion page](https://github.com/rasbt/posit2023-python-ml/discussions) here on GitHub.
 
-
+&nbsp;
 
 # Schedule and Slides
 
-**Block 1**
+**Block 1** (09:00 - 10:30 am)
 
-- Introduction to machine learning
+- (1) Introduction to machine learning
 
-- Python's scientific computing stack
+- (2) Python's scientific computing stack
 
-- The scikit-learn API
+- (3) The scikit-learn API
 
-- Data preprocessing in Python
+- (4) Data preprocessing in Python
 
-**Block 2**
+**30 min Break** (10:30 - 11:00 am)
 
-- Machine learning classifiers 
+---
 
-- Tree-based models in Python
+**Block 2** (11:00 am - 12:30 pm)
 
-- Hyperparameter tuning
+- (5) Machine learning classifiers 
 
-**Block 3**
+- (6) Tree-based models in Python
 
-- Introduction to Deep Learning
+- (7) Hyperparameter tuning
 
-- Understanding PyTorch
+**Lunch break** (12:30 - 1:30 pm)
 
-- Training Deep Neural Networks
+---
 
-**Block 4**
+**Block 3** (1:30 - 3:00 pm)
 
-- Accelerating PyTorch Model Training
+- (8) Introduction to Deep Learning
 
-- Finetuning Large Language Models
+- (9) Understanding PyTorch
 
+- (10) Training Deep Neural Networks
+
+**30 min Break** (3:00 - 3:30 pm)
+
+---
+
+**Block 4**  (3:30 - 5:00 pm)
+
+- (11) Accelerating PyTorch Model Training
+
+- (12) Finetuning Large Language Models
+
+
+
+&nbsp;
+
+## About the Instructor
+
+My name is [Sebastian Raschka](https://sebastianraschka.com), and I have been working on machine learning and AI for more than a decade.
+
+Next to being a researcher, I also have a strong passion for education and am best known for my bestselling books on machine learning using open-source software.
+
+After my PhD, I joined the University of Wisconsin-Madison as a professor in the Department of Statistics, where I focused deep learning and machine learning research until 2023.
+
+Taking a yearlong break from academia, I joined Lightning AI in 2022, where I now focus on AI and LLM research, developing open-source software, and creating educational material. 
