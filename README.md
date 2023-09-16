@@ -16,7 +16,7 @@ Please also check the official [Tutorial Schedule](https://reg.conf.posit.co/flo
 
 -----
 
-
+&nbsp;
 
 ## Abstract
 
@@ -32,7 +32,7 @@ This workshop is for you if you:
 - are a scientific computing practitioner who is interested in predictive modeling
 - are a problem solver who want to learn about Python-tools for tabular, image, and text data
 
-
+&nbsp;
 
 ## Material & Preparation
 
@@ -48,7 +48,7 @@ Looking forward to seeing you there!
 
 PS: If you have any questions, please feel free to reach out via the [Discussion page](https://github.com/rasbt/posit2023-python-ml/discussions) here on GitHub.
 
-
+&nbsp;
 
 # Schedule and Slides
 
@@ -56,21 +56,21 @@ PS: If you have any questions, please feel free to reach out via the [Discussion
 
 | Time          | Activity                             |
 | :------------ | :----------------------------------- |
-| 9:00 am - 10:30 am | (1) Introduction to machine learning [[Slides](https://sebastianraschka.com/posit2023/01_intro-ml__slides.pdf)] [[Code](00-2_python-libraries-for-workshop)] |
-|               | (2) The scikit-learn API [[Slides](https://sebastianraschka.com/posit2023/02-1_scikit-learn-api__slides.pdf)] [[Code](02_scikit-learn-api)]           |
+| 9:00 am - 10:30 am | (1) Introduction to machine learning [[Slides](https://sebastianraschka.com/pdf/posit2023/01_intro-ml__slides.pdf)] [[Code](00-2_python-libraries-for-workshop)] |
+|               | (2) The scikit-learn API [[Slides](https://sebastianraschka.com/pdf/posit2023/02-1_scikit-learn-api__slides.pdf)] [[Code](02_scikit-learn-api)]           |
 | 10:30 am - 11:00 am | *Coffee break*                       |
-| 11:00 am - 12:30 pm | (3) Data processing in Python [[Slides](https://sebastianraschka.com/posit2023/03-1_data-processing-api__slides.pdf)] [[Code](03_data-processing)]             |
-|               | (4) Evaluating & tuning machine learning classifiers [[Slides](https://sebastianraschka.com/posit2023/04-1_ml-classifiers__slides.pdf)] [[Code](04_ml-classifiers)]|
+| 11:00 am - 12:30 pm | (3) Data processing in Python [[Slides](https://sebastianraschka.com/pdf/posit2023/03-1_data-processing-api__slides.pdf)] [[Code](03_data-processing)]             |
+|               | (4) Evaluating & tuning machine learning classifiers [[Slides](https://sebastianraschka.com/pdf/posit2023/04-1_ml-classifiers__slides.pdf)] [[Code](04_ml-classifiers)]|
 | 12:30 pm - 1:30 pm | *Lunch break*                        |
-| 1:30 pm - 3:00 pm | (5) Introduction to deep learning [[Slides](https://sebastianraschka.com/posit2023/05-intro-dl__slides.pdf)] [[Code](05_intro-dl)]   |
-|               | (6) Understanding PyTorch [[Slides](https://sebastianraschka.com/posit2023/06-pytorch-api.pdf)] [[Code](06_pytorch-api)]           |
-|               | (7) Training deep neural networks [[Slides](https://sebastianraschka.com/posit2023/07-multilayer-neural-nets.pdf)] [[Code](07_training-dnns)]   |
+| 1:30 pm - 3:00 pm | (5) Introduction to deep learning [[Slides](https://sebastianraschka.com/pdf/posit2023/05-intro-dl__slides.pdf)] [[Code](05_intro-dl)]   |
+|               | (6) Understanding PyTorch [[Slides](https://sebastianraschka.com/pdf/posit2023/06-pytorch-api.pdf)] [[Code](06_pytorch-api)]           |
+|               | (7) Training deep neural networks [[Slides](https://sebastianraschka.com/pdf/posit2023/07-multilayer-neural-nets.pdf)] [[Code](07_training-dnns)]   |
 | 3:00 pm - 3:30 pm | *Coffee break*                       |
-| 3:30 pm - 5:00 pm | (8) Accelerating PyTorch model training [[Slides](https://sebastianraschka.com/posit2023/08-accelerating-pytorch.pdf)] [[Code](08_accelerating-pytorch)] |
-|               | (9) Finetuning Large Language Models  [[Slides](https://sebastianraschka.com/posit2023/09-1_finetuning-llms.pdf)] [[Code](09_finetuning-llms)] |
-|               | (10) Conclusion [[Slides](https://sebastianraschka.com/posit2023/10-conclusion.pdf)] [[Code](10_conclusion)]   |
-| Bonus materials |  (11) Organizing PyTorch code  [[Slides](https://sebastianraschka.com/posit2023/11-organizing-pytorch-code.pdf)] [[Code](11_bonus-organizing-pytorch-code)] |
-| |  (12) Advanced features and techniques  [[Slides](https://sebastianraschka.com/posit2023/12-advanced-techniques.pdf)] [[Code](12_bonus-advanced-features)] |
+| 3:30 pm - 5:00 pm | (8) Accelerating PyTorch model training [[Slides](https://sebastianraschka.com/pdf/posit2023/08-accelerating-pytorch.pdf)] [[Code](08_accelerating-pytorch)] |
+|               | (9) Finetuning Large Language Models  [[Slides](https://sebastianraschka.com/pdf/posit2023/09-1_finetuning-llms.pdf)] [[Code](09_finetuning-llms)] |
+|               | (10) Conclusion [[Slides](https://sebastianraschka.com/pdf/posit2023/10-conclusion.pdf)] [[Code](10_conclusion)]   |
+| Bonus materials |  (11) Organizing PyTorch code  [[Slides](https://sebastianraschka.com/pdf/posit2023/11-organizing-pytorch-code.pdf)] [[Code](11_bonus-organizing-pytorch-code)] |
+| |  (12) Advanced features and techniques  [[Slides](https://sebastianraschka.com/pdf/posit2023/12-advanced-techniques.pdf)] [[Code](12_bonus-advanced-features)] |
 
 
 
