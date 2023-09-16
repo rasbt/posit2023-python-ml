@@ -1,4 +1,19 @@
 .DS_Store
+*.key
+internal-drafts
+
+# Solutions by lecture
+02-2_exercise-and-solution.ipynb
+03-3_exercise-and-solution.ipynb
+04-2_exercise-and-solution.ipynb
+06-solution
+07-solution
+08-solution
+09-solution
+10-solution
+11-solution
+12-solution
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
