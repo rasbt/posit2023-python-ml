@@ -80,7 +80,7 @@ PS: If you have any questions, please feel free to reach out via the [Discussion
 
 
 
-<a href="https://sebastianraschka.com"><img src="images/author.jpeg" width=400></a>
+<a href="https://sebastianraschka.com"><img src="images/author.jpeg" width=250></a>
 
 My name is [Sebastian Raschka](https://sebastianraschka.com), and I have been working on machine learning and AI for more than a decade.
 
