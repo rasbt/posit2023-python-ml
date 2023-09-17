@@ -78,6 +78,10 @@ PS: If you have any questions, please feel free to reach out via the [Discussion
 
 ## About the Instructor
 
+
+
+<a href="https://sebastianraschka.com"><img src="images/author.jpeg" width=400></a>
+
 My name is [Sebastian Raschka](https://sebastianraschka.com), and I have been working on machine learning and AI for more than a decade.
 
 Next to being a researcher, I also have a strong passion for education and am best known for my bestselling books on machine learning using open-source software.
